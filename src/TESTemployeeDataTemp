@@ -1,0 +1,4 @@
+EmployeeId, FirstName, LastName, numOfHoursWorked, HourlyRate, BaseSalary, TotalSalesAmount
+2162447757,Nancy,Robinson,08.1,71,        ,        
+2777724772,Richard,Jennings,        ,        ,854,7754
+5328145211,Khalid,Nogler,        ,        ,        ,2598
